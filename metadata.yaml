@@ -1,0 +1,49 @@
+_repo: G-nsem-tterchens-M-rchen_42900
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Doré, Gustave
+    aliases:
+    - Dore, Gustave
+    - Doré, Louis Christophe Paul Gustave
+    - Doré, Louis Auguste Gustave
+    - Dorè, Gustave
+    birthdate: 1832
+    deathdate: 1883
+    gutenberg_agent_id: '1896'
+    url: http://www.gutenberg.org/2009/agents/1896
+    wikipedia: http://en.wikipedia.org/wiki/Gustave_Doré
+  translator:
+    agent_name: Krause, Hans
+    gutenberg_agent_id: '41920'
+    url: http://www.gutenberg.org/2009/agents/41920
+covers:
+- cover_type: archival
+  image_path: 42900-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Perrault, Charles
+    birthdate: 1628
+    deathdate: 1703
+    gutenberg_agent_id: '7137'
+    url: http://www.gutenberg.org/2009/agents/7137
+    wikipedia:
+    - http://fr.wikipedia.org/wiki/Charles_Perrault
+    - http://en.wikipedia.org/wiki/Charles_Perrault
+description: ''
+gutenberg_issued: '2013-06-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42900'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Fairy tales -- France -- Translations into German'
+tableOfContents: Rotkäppchen -- Blaubart -- Die Fee -- Der gestiefelte Kater -- Der
+  kleine Däumling -- Aschenbrödel -- Riquet mit der Locke -- Jungfer Eselshaut --
+  Dornröschen.
+title: Gänsemütterchens Märchen
+url: http://www.gutenberg.org/ebooks/42900
